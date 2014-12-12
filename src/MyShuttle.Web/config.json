@@ -1,0 +1,9 @@
+﻿{
+    "DefaultAdminUsername": "administrator",
+    "DefaultAdminPassword": "P2ssw0rd0)",
+    "EntityFramework": {
+        "MyShuttleContext": {
+            "ConnectionStringKey": "Server=(localdb)\\MSSQLLocalDB;Database=MyShuttle;Trusted_Connection=True;MultipleActiveResultSets=true"
+        }
+    }
+}
