@@ -36,3 +36,5 @@ Components/
 src/MvvmCross-UserInteraction/packages/
 packages/
 bld/
+
+*.ide
